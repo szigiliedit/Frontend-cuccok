@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Contoso
+build_property.RootNamespace = Contoso
+build_property.ProjectDir = i:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2022. 12. 08. - Órai Contoso pizza app feladat és videók\Contoso webapp\contosobackend\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = i:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2022. 12. 08. - Órai Contoso pizza app feladat és videók\Contoso webapp\contosobackend
+build_property._RazorSourceGeneratorDebug = 

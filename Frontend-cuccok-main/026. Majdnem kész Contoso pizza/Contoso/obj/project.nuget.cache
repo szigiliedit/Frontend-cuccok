@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0vtelPTfh7Mv/qPcxsuy1UsKlRgSzE9gJ7wi66yr2vM1m54wVjLh3866XY/vcFuY22mhSNPdyEHvm1kzjLuyUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gratt\\OneDrive\\Dokumentumok\\Contoso\\Contoso.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gratt\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\gratt\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\gratt\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\gratt\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\gratt\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\gratt\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
